@@ -7,5 +7,10 @@ Ulubione 5 instrukcji z linuxa:
 ```cd```
 ```clear```
 ```rm```
-Jak mieć gita:
+
+
+ Jak mieć gita:
  ```sudo apt install git```
+ 
+Jak sprawdzić wersję:
+```$ git --version```
